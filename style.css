@@ -30,3 +30,6 @@ nav a:hover {
     background-color: #555;
 }
 
+table {
+    justify-content: center;
+}
